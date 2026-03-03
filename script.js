@@ -1,1 +1,1 @@
-console.log("Portfolio loaded succesfully!");
+console.log("Portfolio loaded successfully!");
